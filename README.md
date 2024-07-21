@@ -1,1 +1,2 @@
 # Movie-Recommender-System
+A movie recommender system leverages both content and collaborative filtering techniques to suggest films tailored to user preferences. Content filtering analyzes movie attributes like genres, directors, and actors to recommend similar films based on a user's viewing history. Conversely, collaborative filtering compares a user's ratings and behavior with others to find overlapping interests, suggesting movies enjoyed by users with similar tastes
